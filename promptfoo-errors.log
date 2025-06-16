@@ -1,0 +1,70 @@
+2025-06-16T17:46:09.081Z [ERROR]: Error running database migrations: Error: The module '\\?\C:\Users\Lenovo\AppData\Roaming\npm\node_modules\promptfoo\node_modules\better-sqlite3\build\Release\better_sqlite3.node'
+was compiled against a different Node.js version using
+NODE_MODULE_VERSION 127. This version of Node.js requires
+NODE_MODULE_VERSION 137. Please try re-compiling or re-installing
+the module (for instance, using `npm rebuild` or `npm install`).
+2025-06-16T17:46:10.104Z [ERROR]: Error running database migrations: Error: The module '\\?\C:\Users\Lenovo\AppData\Roaming\npm\node_modules\promptfoo\node_modules\better-sqlite3\build\Release\better_sqlite3.node'
+was compiled against a different Node.js version using
+NODE_MODULE_VERSION 127. This version of Node.js requires
+NODE_MODULE_VERSION 137. Please try re-compiling or re-installing
+the module (for instance, using `npm rebuild` or `npm install`).
+2025-06-16T17:54:48.774Z [ERROR]: Error running database migrations: Error: The module '\\?\C:\Users\Lenovo\AppData\Roaming\npm\node_modules\promptfoo\node_modules\better-sqlite3\build\Release\better_sqlite3.node'
+was compiled against a different Node.js version using
+NODE_MODULE_VERSION 127. This version of Node.js requires
+NODE_MODULE_VERSION 137. Please try re-compiling or re-installing
+the module (for instance, using `npm rebuild` or `npm install`).
+2025-06-16T17:54:49.808Z [ERROR]: Error running database migrations: Error: The module '\\?\C:\Users\Lenovo\AppData\Roaming\npm\node_modules\promptfoo\node_modules\better-sqlite3\build\Release\better_sqlite3.node'
+was compiled against a different Node.js version using
+NODE_MODULE_VERSION 127. This version of Node.js requires
+NODE_MODULE_VERSION 137. Please try re-compiling or re-installing
+the module (for instance, using `npm rebuild` or `npm install`).
+2025-06-16T17:56:29.074Z [ERROR]: Error running database migrations: Error: The module '\\?\C:\Users\Lenovo\AppData\Roaming\npm\node_modules\promptfoo\node_modules\better-sqlite3\build\Release\better_sqlite3.node'
+was compiled against a different Node.js version using
+NODE_MODULE_VERSION 127. This version of Node.js requires
+NODE_MODULE_VERSION 137. Please try re-compiling or re-installing
+the module (for instance, using `npm rebuild` or `npm install`).
+2025-06-16T17:56:30.091Z [ERROR]: Error running database migrations: Error: The module '\\?\C:\Users\Lenovo\AppData\Roaming\npm\node_modules\promptfoo\node_modules\better-sqlite3\build\Release\better_sqlite3.node'
+was compiled against a different Node.js version using
+NODE_MODULE_VERSION 127. This version of Node.js requires
+NODE_MODULE_VERSION 137. Please try re-compiling or re-installing
+the module (for instance, using `npm rebuild` or `npm install`).
+2025-06-16T18:00:34.966Z [ERROR]: Error running database migrations: Error: The module '\\?\C:\Users\Lenovo\AppData\Roaming\npm\node_modules\promptfoo\node_modules\better-sqlite3\build\Release\better_sqlite3.node'
+was compiled against a different Node.js version using
+NODE_MODULE_VERSION 127. This version of Node.js requires
+NODE_MODULE_VERSION 137. Please try re-compiling or re-installing
+the module (for instance, using `npm rebuild` or `npm install`).
+2025-06-16T18:00:35.992Z [ERROR]: Error running database migrations: Error: The module '\\?\C:\Users\Lenovo\AppData\Roaming\npm\node_modules\promptfoo\node_modules\better-sqlite3\build\Release\better_sqlite3.node'
+was compiled against a different Node.js version using
+NODE_MODULE_VERSION 127. This version of Node.js requires
+NODE_MODULE_VERSION 137. Please try re-compiling or re-installing
+the module (for instance, using `npm rebuild` or `npm install`).
+2025-06-16T18:02:58.904Z [ERROR]: Error running database migrations: Error: The module '\\?\C:\Users\Lenovo\AppData\Roaming\npm\node_modules\promptfoo\node_modules\better-sqlite3\build\Release\better_sqlite3.node'
+was compiled against a different Node.js version using
+NODE_MODULE_VERSION 127. This version of Node.js requires
+NODE_MODULE_VERSION 137. Please try re-compiling or re-installing
+the module (for instance, using `npm rebuild` or `npm install`).
+2025-06-16T18:02:59.927Z [ERROR]: Error running database migrations: Error: The module '\\?\C:\Users\Lenovo\AppData\Roaming\npm\node_modules\promptfoo\node_modules\better-sqlite3\build\Release\better_sqlite3.node'
+was compiled against a different Node.js version using
+NODE_MODULE_VERSION 127. This version of Node.js requires
+NODE_MODULE_VERSION 137. Please try re-compiling or re-installing
+the module (for instance, using `npm rebuild` or `npm install`).
+2025-06-16T18:04:16.492Z [ERROR]: Error running database migrations: Error: The module '\\?\C:\Users\Lenovo\AppData\Roaming\npm\node_modules\promptfoo\node_modules\better-sqlite3\build\Release\better_sqlite3.node'
+was compiled against a different Node.js version using
+NODE_MODULE_VERSION 127. This version of Node.js requires
+NODE_MODULE_VERSION 137. Please try re-compiling or re-installing
+the module (for instance, using `npm rebuild` or `npm install`).
+2025-06-16T18:04:17.519Z [ERROR]: Error running database migrations: Error: The module '\\?\C:\Users\Lenovo\AppData\Roaming\npm\node_modules\promptfoo\node_modules\better-sqlite3\build\Release\better_sqlite3.node'
+was compiled against a different Node.js version using
+NODE_MODULE_VERSION 127. This version of Node.js requires
+NODE_MODULE_VERSION 137. Please try re-compiling or re-installing
+the module (for instance, using `npm rebuild` or `npm install`).
+2025-06-16T18:05:17.209Z [ERROR]: Error running database migrations: Error: The module '\\?\C:\Users\Lenovo\AppData\Roaming\npm\node_modules\promptfoo\node_modules\better-sqlite3\build\Release\better_sqlite3.node'
+was compiled against a different Node.js version using
+NODE_MODULE_VERSION 127. This version of Node.js requires
+NODE_MODULE_VERSION 137. Please try re-compiling or re-installing
+the module (for instance, using `npm rebuild` or `npm install`).
+2025-06-16T18:05:18.239Z [ERROR]: Error running database migrations: Error: The module '\\?\C:\Users\Lenovo\AppData\Roaming\npm\node_modules\promptfoo\node_modules\better-sqlite3\build\Release\better_sqlite3.node'
+was compiled against a different Node.js version using
+NODE_MODULE_VERSION 127. This version of Node.js requires
+NODE_MODULE_VERSION 137. Please try re-compiling or re-installing
+the module (for instance, using `npm rebuild` or `npm install`).
